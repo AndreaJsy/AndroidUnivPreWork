@@ -1,11 +1,9 @@
-# AndroidUnivPreWork
-Andrea Jiang's CodePath AndroidUniv Pre-work. Andrea Jiang and Shiyu Jiang is the same person. Both are me. It is just my preference of name.
 
-# Android Prework - *Name of App Here*
+# Android Prework - *AndroidUnivPreWork*
 
 Submitted by: **Andrea(Shiyu) Jiang**
 
-**AndroidUnivPreWork** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
+**AndroidUnivPreWork** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. Andrea Jiang's CodePath AndroidUniv Pre-work. Andrea Jiang and Shiyu Jiang is the same person. Both are me. It is just my preference of name.
 
 Time spent: **2** hours spent in total
 
@@ -26,6 +24,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
+![HelloWorldPuppy](https://user-images.githubusercontent.com/97689754/185830770-c1bf3503-78ea-44c5-9fde-484e21338edb.gif)
+
+
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
@@ -37,7 +38,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I encountered a challenge while importing pictures into Android Studio. I tried multiple times in different ways with different paths, and finally used the most regular way to solve it. I also encountered an issue while submitting it through Git. It is about creating a repository within Android Studio and push the package into GitHub. Then I tried a different method, which is to create a repository on GitHub and then share the package to this repository, which should finally resolve this problem.
 
 ## License
 
